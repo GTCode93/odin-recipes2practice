@@ -1,6 +1,9 @@
 body{
     background-color:#FDFCDC;
 }
+.textsize{
+    font-size:20px;
+}
 .font{
     font-family:Verdana, Geneva, Tahoma, sans-serif
 }
@@ -13,3 +16,4 @@ body{
     height: auto;
     width: 400px;
 }
+.recipetext
