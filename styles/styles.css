@@ -4,3 +4,8 @@ body{
 .font{
     font-family:Verdana, Geneva, Tahoma, sans-serif
 }
+.indextext{
+    text-align: center;
+    font-size: 30px;
+    color: black;
+}
